@@ -1,7 +1,7 @@
 # > Hi there, I'm Yash Thakur 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/yashthakur666)
 [![Website](https://img.shields.io/badge/-Website-black?style=flat&logo=Google-Chrome&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/yourusername)](https://instagram.com/yourusername)
 
@@ -12,11 +12,11 @@ As a DevOps Engineer majoring in DevOps and Cloud, I bring a wealth of experienc
 ## Talking about Personal Stuff:
 
 - 🔭 I’m currently working on something cool;
-- 🌱 I’m currently learning [Technology/Subject] on [Platform];
+- 🌱 I’m currently learning DevOps;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regularly write articles on [Platform/Website];
-- 📫 How to reach me: [Your Email](mailto:your-email@example.com);
-- 📄 [Resume](https://linktoresume.com).
+- 📫 How to reach me: yashcodedev@gmail.com(mailto:yashcodedev@gmail.com);
+- 📄 My CV(https://linktoresume.com).
 
 ## 🛠️ Technologies & Tools
 
@@ -30,4 +30,4 @@ As a DevOps Engineer majoring in DevOps and Cloud, I bring a wealth of experienc
 ## 📊 This Week I Spent My Time On:
 
 ```markdown
-Your Task or Project
+Getting better in my DevOPs Skills
