@@ -14,9 +14,9 @@ As a DevOps Engineer majoring in DevOps and Cloud, I bring a wealth of experienc
 - 🔭 I’m currently working on something cool;
 - 🌱 I’m currently learning DevOps;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regularly write articles on Linkedin() & Medium(https://medium.com/@yashcodedev);
-- 📫 How to reach me: yashcodedev@gmail.com[(mailto:yashcodedev@gmail.com)];
-- 📄 My CV (https://linktoresume.com).
+- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/yashthakur666/) & [Medium](https://medium.com/@yashcodedev);
+- 📫 How to reach me: [yashcodedev@gmail.com](mailto:yashcodedev@gmail.com);
+- 📄 [My CV](https://linktoresume.com).
 
 ## 🛠️ Technologies & Tools
 
