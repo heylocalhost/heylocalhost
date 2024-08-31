@@ -20,14 +20,14 @@ As a DevOps Engineer majoring in DevOps and Cloud, I bring a wealth of experienc
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages**: JavaScript, Python, Bash, Go
+- **Programming Languages**: JavaScript, Python, Bash
 - **Infrastructure as Code**: Ansible, Terraform, CloudFormation
 - **Containerization**: Docker, Kubernetes
-- **Cloud Platforms**: AWS, GCP
+- **Cloud Platforms**: AWS
 - **Monitoring & Logging**: Prometheus, Grafana
-- **CI/CD**: Jenkins, GitHub Actions
+- **CI/CD**: Jenkins, GitHub Actions, GitLab
 
 ## 📊 This Week I Spent My Time On:
 
 ```markdown
-Getting better in my DevOPs Skills
+Getting better in my DevOps Skills
