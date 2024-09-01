@@ -1,5 +1,4 @@
-# > Hi there, I'm Yash Thakur 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# <samp>&gt; Hello World, I'm <a href="https://www.linkedin.com/in/yashthakur666" target="_blank">Yash</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/yashthakur666)
 [![Website](https://img.shields.io/badge/-Website-black?style=flat&logo=Google-Chrome&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
@@ -7,7 +6,7 @@
 
 Glad to see you here!
 
-As a DevOps Engineer majoring in DevOps and Cloud, I bring a wealth of experience across frontend, backend, and machine learning engineering domains. Just like a full-stack software engineer, I am passionate about programming, writing, speaking, and exploring new destinations. My approach to software engineering mirrors my commitment to meticulous attention to detail and a deep-seated desire to create impactful solutions. This compels me to work on projects that have the potential to make a meaningful difference in the world.
+DevOps Engineer on a quest to make deployment as smooth as my coffee in the morning. I specialize in crafting resilient cloud architectures, automating everything that can be automated, and occasionally debugging production issues at 2 AM (because who needs sleep, right?). My code is my canvas, and Infrastructure as Code is my art form. Off the clock, I'm either conquering virtual worlds in FPS games or attempting to conquer real mountains on hiking trails. Join me in the exciting world of DevOps, where every day is an adventure in efficiency!
 
 ## Talking about Personal Stuff:
 
